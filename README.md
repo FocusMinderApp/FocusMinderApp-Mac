@@ -34,11 +34,12 @@ You only need to do this once.
 
 ## Features
 
-- ⏱ Automatic work/break Pomodoro cycles
-- 🔔 Notifications when phases transition
-- 📊 Daily focus minutes tracked toward a goal
-- 🔥 Streak tracking to build consistency
-- 🖥 Lives entirely in the menu bar — no dock icon, no clutter
+- Tutorial for first-time app users to better understand what it does
+- Automatic work/break Pomodoro cycles
+- Notifications when phases transition
+- Daily focus minutes tracked toward a goal
+- Streak tracking to build consistency
+- Lives entirely in the menu bar — no dock icon, no clutter
 
 ---
 
@@ -50,6 +51,7 @@ FocusMinder collects no data whatsoever.
 - No crash reporting  
 - No network requests — the app never connects to the internet
 - All data (session history, streaks) is stored locally on your device only
+- No pesky notifications other than core app functions
 
 ---
 
