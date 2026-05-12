@@ -44,7 +44,6 @@ FocusMinder collects no data whatsoever.
 ## Requirements
 
 - macOS 26 Tahoe or later
-- Apple Silicon or Intel Mac
 
 ---
 
