@@ -6,7 +6,7 @@ A Pomodoro-style focus timer for Mac. Runs automatic work/break cycles, tracks d
 
 ## Download
 
-👉 **[Download the latest beta](../../releases/latest)**
+👉 **[Download the latest release](../../releases/latest)**
 
 Click the link above → download `FocusMinder.dmg`
 
