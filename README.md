@@ -18,20 +18,6 @@ Click the link above → download `FocusMinder.dmg`
 2. Drag `FocusMinder.app` to your **Applications** folder
 3. Launch FocusMinder from Applications
 
-### First Launch — Gatekeeper Warning
-
-Because this app is not yet signed with an Apple Developer certificate, macOS may block it on first launch. Here's how to open it:
-
-1. Try to open FocusMinder — macOS will show a warning and block it
-2. Open **System Settings → Privacy & Security**
-3. Scroll down until you see a message about FocusMinder being blocked
-4. Click **"Open Anyway"**
-5. Confirm in the dialog that appears
-
-You only need to do this once.
-
----
-
 ## Features
 
 - Tutorial for first-time app users to better understand what it does
